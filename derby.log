@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Feb 06 12:35:32 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-c3e1-0dc5-00000716d250 
+on database directory C:\Users\eshit\Desktop\APResearch\webInterface\atm with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6e5e91e4 
+Loaded from file:/C:/Users/eshit/Desktop/APResearch/webInterface/TestGear.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.1+13-LTS
+user.dir=C:\Users\eshit\Desktop\APResearch\webInterface
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
